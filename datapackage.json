@@ -7658,7 +7658,7 @@
   "description": "Spending information of the central government of the Dominican Republic",
   "title": "Dominican Republic",
   "tags": [
-    "national"
+    "National"
   ],
   "govt_level": "National",
   "years_included": [
@@ -7683,5 +7683,7 @@
   "country": "Dominican Republic",
   "start_date": "2014-01-01",
   "end_date": "2021-12-31",
-  "continent": "North America"
+  "continent": "North America",
+  "createdAt": "2021-05-24T18:35:58Z",
+  "updatedAt": "2021-05-24T18:46:35Z"
 }
